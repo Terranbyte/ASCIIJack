@@ -1,5 +1,5 @@
 # ASCIIJack
-A console based blackjack game
+A console based blackjack game.
 # About this
 It's blackjack with sprites in a console.
 
